@@ -1,0 +1,13 @@
+# KiCad local state
+*.kicad_prl
+*.lck
+*_autosave-*
+fp-info-cache
+
+# KiCad backups / generated outputs
+*.bak
+output/
+ch32v203_dev-backups/
+
+# Archives
+*.zip

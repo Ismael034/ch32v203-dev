@@ -1,0 +1,50 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0e6f0aa4-a0ff-4959-b558-a36c5faa29c6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 123.19 49.53)
+		(size 29.21 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "695d48d0-b127-49b4-b19c-0382de2ea4d3")
+		(property "Sheetname" "CH32V203"
+			(at 123.19 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1_1.kicad_sch"
+			(at 123.19 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ch32v203_dev"
+				(path "/0e6f0aa4-a0ff-4959-b558-a36c5faa29c6"
+					(page "1")
+				)
+			)
+		)
+	)
+)
